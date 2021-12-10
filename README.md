@@ -9,7 +9,7 @@ Coding exercises of the course Statistical Learning Theory
 
 <img src="https://user-images.githubusercontent.com/55353663/145596928-20ac09f2-190d-42ca-9a65-3c0280f06c34.png" width="700" height="350">
 
-<img src="https://user-images.githubusercontent.com/55353663/145596949-c99449e5-f4a7-4ed4-bcab-2870eee67588.png" width="1100" height="350">
+<img src="https://user-images.githubusercontent.com/55353663/145596949-c99449e5-f4a7-4ed4-bcab-2870eee67588.png" width="1100" height="300">
 
 ## Coding Exercise 2
 ![Screenshot 2021-12-10 162444](https://user-images.githubusercontent.com/55353663/145598608-7e6400d4-fe62-45da-9d16-1cdbf3a49722.png)
